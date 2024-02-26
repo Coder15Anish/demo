@@ -1,4 +1,4 @@
 # demo
 This is a demo repository
 <br>
-Author - Anish
+Author - Anish Roy
